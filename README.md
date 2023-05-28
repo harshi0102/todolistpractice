@@ -1,5 +1,5 @@
 # To Do List
-# Live-Demo (https://harshi0102.github.io/todolistpractice/)
+Live-Demo (https://harshi0102.github.io/todolistpractice/)
 <div align="left">
 <img src="to-do-list-javascript.gif" alt="image" width="650" height="auto">
 </div>
